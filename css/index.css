@@ -1064,6 +1064,16 @@ h1::before{
     background-color: #009688;
 }
 
+h1::after{
+    content: '';
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: #009688;
+}
+
+
 
 
 
